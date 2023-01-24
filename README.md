@@ -16,7 +16,8 @@ Write down the code for book cover using HTML and CSS.
 Add images and other contents using CSS record a screenshot of it.
 
 # Output:
-![output](Web.png)
+![Web](https://user-images.githubusercontent.com/118680826/214357546-6db4aad8-fedd-4b16-aa10-90e5eff5e7f9.png)
+
 
 # Code:
 ## HTML:
